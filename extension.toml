@@ -4,4 +4,4 @@ description = "A theme inspred on Vapor from Steam Deck"
 version = "0.0.1"
 schema_version = 1
 authors = ["felipetesc"]
-repository = "https://github.com/felipetesc/zed_vapor"
+repository = "https://github.com/felipetesc/zed-vapor"
