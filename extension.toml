@@ -1,0 +1,7 @@
+id = "zed-vapor"
+name = "Zed Vapor Theme"
+description = "A theme inspred on Vapor from Steam Deck"
+version = "0.0.1"
+schema_version = 1
+authors = ["felipetesc"]
+repository = "https://github.com/felipetesc/kde_vapor"
