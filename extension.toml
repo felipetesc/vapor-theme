@@ -1,6 +1,6 @@
-id = "zed-vapor"
-name = "Zed Vapor Theme"
-description = "A theme inspired on Vapor Thme for Steam Deck"
+id = "vapor-theme"
+name = "Vapor Theme"
+description = "A theme inspired on Vapor Theme from Steam Deck"
 version = "0.0.1"
 schema_version = 1
 authors = ["felipetesc"]
