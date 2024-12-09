@@ -1,7 +1,7 @@
 id = "vapor-theme"
 name = "Vapor Theme"
 description = "A theme inspired on Vapor's Theme from Steam Deck"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["felipetesc"]
 repository = "https://github.com/felipetesc/vapor-theme"
