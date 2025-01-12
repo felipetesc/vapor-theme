@@ -2,6 +2,8 @@
 
 Theme inspired on Kde Plasma Vapor Theme for [Zed](https://zed.dev).
 
+## Current version: 0.0.2
+
 ## Screenshot
 
 ### Dark
